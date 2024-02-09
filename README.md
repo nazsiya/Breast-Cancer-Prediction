@@ -1,4 +1,7 @@
 # Breast Cancer Survival Prediction with Machine Learning
+🚀 Welcome to the Breast Cancer Survival Prediction with Machine Learning repository!
+
+Breast cancer is a significant health concern, and predicting patient survival post-surgery is crucial for effective treatment planning. This project utilizes machine learning techniques to predict breast cancer survival based on a dataset containing information on over 400 patients who underwent surgery.
 
 ## 🌐 Overview
 Breast cancer is a critical health issue, and predicting patient survival after surgery is paramount for effective treatment planning. This project focuses on breast cancer survival prediction using machine learning. The dataset comprises information on over 400 breast cancer patients who underwent surgery for treatment.
